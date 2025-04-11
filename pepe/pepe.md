@@ -7,4 +7,8 @@ Partimos de un repositorio en github con varios ficheros.
 cambio
 maria
 maria2
+<<<<<<< HEAD
 juan2
+=======
+maria
+>>>>>>> 9cbdf52a09e2a930c152e9991e96fe7669d054c5
